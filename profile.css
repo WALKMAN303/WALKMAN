@@ -1,0 +1,33 @@
+body{
+    background-color: #343F4F;
+}
+
+header{
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    letter-spacing: 2px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+a{
+    color: burlywood;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 100px;
+    text-decoration-line: none;
+    text-transform: uppercase;
+}

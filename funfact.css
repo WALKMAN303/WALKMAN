@@ -1,0 +1,40 @@
+body{
+    background-color: #343F4F;
+}
+
+.fact{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 3px;
+    font-size: medium;
+    height: 80vh;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+}
+
+header{
+    color: rosybrown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+a{
+    color: azure;
+    text-decoration-line: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+    letter-spacing: 1px;
+}
+ul{
+    list-style-type: circle;
+}
